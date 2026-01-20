@@ -17,10 +17,10 @@ La mission consiste à analyser le projet à partir des éléments fournis (maqu
 
 ## Contenu du repository
 
-- Spécifications techniques
-- Tableau Kanban
-- Veille technologique
-- Présentation du cadrage
+- [Spécifications techniques](Huber_Jonathan_1_specifications_techniques_122025.pdf)
+- [Tableau Kanban](Huber_Jonathan_2_Kanban_122025.pdf)
+- [Veille technologique](Huber_Jonathan_3_Veille_122025.pdf)
+- [Présentation du cadrage](Huber_Jonathan_3_Presentation_122025.pdf)
 
 ⚠️ Aucun développement n’est présent dans ce repository. Le projet est volontairement limité à la phase de conception.
 
